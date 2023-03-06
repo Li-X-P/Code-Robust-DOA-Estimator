@@ -1,3 +1,8 @@
-# Robust-DOA-Estimator
+# MUSIC with Capped Frobenius Norm
 
-Coming Soon...
+
+Copyright @ Xiao Peng Li, 2022
+------------------------------------------------
+To demonstrate MUSIC with Capped Frobenius Norm
+
+Coming soon...
